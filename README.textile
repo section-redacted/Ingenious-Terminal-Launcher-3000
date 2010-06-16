@@ -1,0 +1,3 @@
+h1. Ingenious Terminal Launcher 3000
+
+The application detects path to the frontmost Finder window and opens a Terminal window for the user. The user can configure how many tabs to open, and what user scripts to run automatically. This setting is then persisted on folder-by-folder bases. Enjoy.
