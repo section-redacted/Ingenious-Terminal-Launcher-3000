@@ -1,3 +1,7 @@
 h1. Ingenious Terminal Launcher 3000
 
 The application detects path to the frontmost Finder window and opens a Terminal window for the user. The user can configure how many tabs to open, and what user scripts to run automatically. This setting is then persisted on folder-by-folder bases. Enjoy.
+
+h2. Requirements
+
+I wrote ITL3K for internal use, so it only runs on OS X 10.6 and newer, and only with the 64-bit obj-c runtime (32-bit runtime doesn't support properties without ivar declarations). It would be trivial to make this run on older systems - patches are welcome.
