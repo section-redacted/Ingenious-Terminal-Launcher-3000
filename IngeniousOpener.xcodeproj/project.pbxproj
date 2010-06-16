@@ -36,7 +36,7 @@
 		669284E311C8D4FE002DA231 /* Finder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Finder.h; sourceTree = "<group>"; };
 		669287B811C9391E002DA231 /* icon.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = icon.icns; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* IngeniousOpener-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "IngeniousOpener-Info.plist"; sourceTree = "<group>"; };
-		8D1107320486CEB800E47090 /* IngeniousOpener.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IngeniousOpener.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8D1107320486CEB800E47090 /* Ingenious Terminal Launcher 3000.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Ingenious Terminal Launcher 3000.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,7 +85,7 @@
 		19C28FACFE9D520D11CA2CBB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8D1107320486CEB800E47090 /* IngeniousOpener.app */,
+				8D1107320486CEB800E47090 /* Ingenious Terminal Launcher 3000.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -152,7 +152,7 @@
 			name = "Ingenious Terminal Launcher 3000";
 			productInstallPath = "$(HOME)/Applications";
 			productName = IngeniousOpener;
-			productReference = 8D1107320486CEB800E47090 /* IngeniousOpener.app */;
+			productReference = 8D1107320486CEB800E47090 /* Ingenious Terminal Launcher 3000.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -245,7 +245,7 @@
 				GCC_PREFIX_HEADER = IngeniousOpener_Prefix.pch;
 				INFOPLIST_FILE = "IngeniousOpener-Info.plist";
 				INSTALL_PATH = "$(HOME)/Applications";
-				PRODUCT_NAME = IngeniousOpener;
+				PRODUCT_NAME = "Ingenious Terminal Launcher 3000";
 			};
 			name = Release;
 		};
