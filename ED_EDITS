@@ -1,0 +1,4 @@
+
+So far just tweaked the settings so it doesn't throw too many errors on compile. Down to 2 showstoppers now from 8. NSApplicationDelegate seems to be an
+issue. Apple docs indicate it is 10.6 only, not sure I am reading correctly.
+Why does this shit have to be harder than it seems every damn time?

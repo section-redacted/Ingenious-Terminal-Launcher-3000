@@ -145,7 +145,7 @@ NSString* getPathToFrontFinderWindow() {
     }
     
     //if(newFolder)
-        [window makeKeyAndOrderFront:self];
+   //     [window makeKeyAndOrderFront:self];
     //else
         //[self openTerminal:nil];
     
